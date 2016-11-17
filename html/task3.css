@@ -1,0 +1,41 @@
+img{
+	width: 80px;
+	height: 80px;
+	border: 1px solid black;
+}
+.left{
+	background-color: white;
+	border: 1px solid black;
+	float: left;
+	width: 200px;
+	padding: 20px;
+}
+.right{
+	background-color: white;
+	border:1px solid black;
+	float: right;
+	width: 120px;
+	padding: 20px; 
+}
+.main{
+	margin: 0 auto;
+	overflow: auto;
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+}
+
+.logo{
+	display: block;
+	margin: 20px;
+}
+.mid{
+	margin-right: 180px;
+	background-color: white;
+	border: 1px solid black;
+	margin-left: 260px; 
+	padding: 20px;
+}
+body{
+	padding: 20px;
+}
