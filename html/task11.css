@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 13px;
+}
+body>header,
+nav ul {
+	
+	line-height: 1.15rem;
+}
+nav ul {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    height: 100%
+}
+
+nav ul li {
+    -webkit-flex: 1;
+    flex: 1;
+    color: #656565;
+    display: inline-block
+}
+
+body>header{
+	background-color:#91d4da;
+	position: relative;
+}
